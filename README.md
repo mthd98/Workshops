@@ -4,9 +4,16 @@ This is the repository for The Machine Learning Workshops, published by [AI DOJO
 
 ## Requirements and Setup
 
-We recommend using [Colab](https://colab.research.google.com/?utm_source=scs-index).You will fond Colab icon in the top of all AI DOJO code.
+We recommend to use [Colab](https://colab.research.google.com/?utm_source=scs-index).You will fond Colab icon in the top of all AI DOJO code.
 If you are want to use your own pc place follow the instructions below:
 1. Install Python on [Windows/Mac](https://www.python.org/downloads/release/python-387/).
 2. Install pip for [Windows/Mac/Linux](https://pip.pypa.io/en/stable/installation/).
 3. Make sure to install the necessary python packages for the workshop from the [requirements.txt](https://github.com/TheAIDojo/Workshops/blob/main/requirements.txt) file.
+4. Donwload the code editer we are recommend [vscode](https://code.visualstudio.com/download)
 
+## About The AI DOJO Machine Learning Workshop
+
+With expert guidance and real-world examples, The AI DOJO Machine Learning Workshop gets you up and running with programming machine learning, Deep Learning algorithms and will show you how to train your own Machine Learning algorithms in the right way. By showing you how to leverage TensorFlow flexibility, it teaches you all the skills you need to use machine learning & Deep Learning.
+
+## What you will learn
+* 
