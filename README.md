@@ -13,7 +13,7 @@ If you are want to use your own pc place follow the instructions below:
 
 ## About The AI DOJO Machine Learning Workshop
 
-The AI DOJO Machine Learning Workshop will walk you through the process of building, training, and model evaluation of your machine learning and Deep Learning algorithms with expert guidance and real-world examples. By showing you how to leverage TensorFlow flexibility, The AI DOJO Machine Learning Workshop will teach you all the skills you need to use machine learning & Deep Learning in the right way.
+With expert guidance and real-world examples the AI DOJO Machine Learning Workshop will walk you through the process of building, training, and model evaluation of your machine learning and Deep Learning algorithms. By showing you how to leverage TensorFlow flexibility, The AI DOJO Machine Learning Workshop will teach you all the skills you need to use machine learning & Deep Learning in the right way.
 
 ## What you will learn
 * 
