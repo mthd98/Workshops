@@ -8,5 +8,5 @@ We recommend using [Colab](https://colab.research.google.com/?utm_source=scs-ind
 If you are want to use your own pc place follow the instructions below:
 1. Install Python on [Windows/Mac](https://www.python.org/downloads/release/python-387/).
 2. Install pip for [Windows/Mac/Linux](https://pip.pypa.io/en/stable/installation/).
-3. Make sure to install the necessary python packages for the workshop from the requirements.txt file.
+3. Make sure to install the necessary python packages for the workshop from the [requirements.txt](https://github.com/TheAIDojo/Workshops/blob/main/requirements.txt) file.
 
