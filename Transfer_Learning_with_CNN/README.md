@@ -8,7 +8,7 @@
 
 [Transfer_Learning_with_CNN - Workshop Code](https://colab.research.google.com/github/TheAIDojo/Workshops/blob/main/Transfer_Learning_with_CNN/Transfer_Learning.ipynb)
 
-[Transfer_Learning_with_CNN - Workshop Slides]()
+[Transfer_Learning_with_CNN - Workshop Slides](https://aidojo-my.sharepoint.com/:p:/g/personal/muntadher_aidojo_co/EYDCj58MovZHsoORAzlvETkBk86Gpj_YLRxKOqt-8aECpw?e=49d3od)
 
 
 
