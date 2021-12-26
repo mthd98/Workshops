@@ -20,3 +20,4 @@
 
 [Computer Vsiion Using Deep Learning - Workshop Slides](https://aidojo-my.sharepoint.com/:p:/g/personal/muntadher_aidojo_co/EW7dNxiis4RPnVH6agpJm1cBpqUXolPdB3dTWQQmPUB6MQ?e=osN4JA)
 
+[CNN Explainer](https://poloclub.github.io/cnn-explainer/)
