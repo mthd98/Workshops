@@ -16,4 +16,16 @@ If you are want to use your own pc place follow the instructions below:
 With expert guidance and real-world examples the AI DOJO Machine Learning Workshop will walk you through the process of building, training, and model evaluation of your machine learning and Deep Learning algorithms. By showing you how to leverage TensorFlow flexibility, The AI DOJO Machine Learning Workshop will teach you all the skills you need to use machine learning & Deep Learning in the right way.
 
 ## What you will learn
-* 
+* Understand how to select an algorithm that best fits your dataset and desired outcome.
+* Explore popular real-world algorithms such as Linear Regression, Logistic Regression, Decision Trees, Random Forest, Neural Networks, Convolutional Neural Networks (CNNs) and etc...
+* Understand the importance of data pipeline and how to use it to speed up the training process.
+* Understand the importance of hyperparameters and tuning them to get the best results.
+* Understand the importance of data augmentation and how to use it to prevent overfitting.
+* Understand the importance of regularization and how to use it to prevent overfitting.
+* Discover different approaches to solve machine learning classification problems.
+* Discover different approaches to solve machine learning regression problems.
+* Develop Deep Learning structures using the TensorFlow package.
+* Develop a model evaluation pipeline using TensorFlow.
+* Perform error analysis to improve your model's performance.
+* Understand the importance of data preprocessing and how to use it to improve your model's performance.
+
