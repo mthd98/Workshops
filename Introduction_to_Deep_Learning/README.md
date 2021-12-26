@@ -3,15 +3,18 @@
 
 
 ## what you will learn
-* 
+* You will inderstand the difference between AI, Machina Learning, and Deep Learning.
+* Why Deep Learning and Why Now?
+* Introduction to TenserFlow.
+* You will anderstand the math behind the artficial nerual network and the building block of it (The Perceptron).
+* You will build and train a neural network using TensorFlow.
+* You will have deeper inderstand for the loss functions and the use case of them.
+* You will have deeper inderstand for the optimizers and the use case of them to optimize Neural Networks prameters.
+* Train Neural Networks with Mini-Batches.
+* How to solve the overfitting problem. 
 
 ## link to the workshop
 
 [Introduction to Deep Learning - Workshop Code](https://colab.research.google.com/github/TheAIDojo/Workshops/blob/main/Introduction_to_Deep_Learning/Introduction_to_Deep_Learning.ipynb)
 
 [Introduction to Deep Learning - Workshop Slides](https://aidojo-my.sharepoint.com/:p:/g/personal/muntadher_aidojo_co/EeqGYILzZaZKpGc2gM7wiY0BcE5r_HFaskkdAKxVDRCfGg?e=c38kfe)
-
-
-
-
-
