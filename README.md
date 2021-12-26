@@ -25,7 +25,6 @@ With expert guidance and real-world examples the AI DOJO Machine Learning Worksh
 * Discover different approaches to solve machine learning classification problems.
 * Discover different approaches to solve machine learning regression problems.
 * Develop Deep Learning structures using the TensorFlow package.
-* Develop a model evaluation pipeline using TensorFlow.
 * Perform error analysis to improve your model's performance.
 * Understand the importance of data preprocessing and how to use it to improve your model's performance.
 
