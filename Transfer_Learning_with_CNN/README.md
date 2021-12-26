@@ -1,7 +1,7 @@
 # Transfer_Learning_with_CNN
 
 
-## what you will learn
+## What You Will Learn
 
 * Convolutional Neural Networks (CNNs).
 * ImageNet.
@@ -13,7 +13,7 @@
 * How to create Data Pipeline using TensorFlow.
 * How to solve the Overfitting for the CNN using Data Augmentation.
 
-## link to the workshop
+## Workshop Links
 
 [Transfer_Learning_with_CNN - Workshop Code](https://colab.research.google.com/github/TheAIDojo/Workshops/blob/main/Transfer_Learning_with_CNN/Transfer_Learning.ipynb)
 

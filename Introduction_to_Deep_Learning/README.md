@@ -2,7 +2,7 @@
 
 
 
-## what you will learn
+## What You Will Learn
 * You will inderstand the difference between AI, Machina Learning, and Deep Learning.
 * Why Deep Learning and why now?
 * Introduction to TenserFlow.
@@ -13,7 +13,7 @@
 * Train neural networks with Mini-Batches.
 * How to solve the overfitting problem. 
 
-## link to the workshop
+## Workshop Links
 
 [Introduction to Deep Learning - Workshop Code](https://colab.research.google.com/github/TheAIDojo/Workshops/blob/main/Introduction_to_Deep_Learning/Introduction_to_Deep_Learning.ipynb)
 

@@ -2,7 +2,7 @@
 
 
 
-## what you will learn
+## What You Will Learn
 
 * Deeper inderstand for what human “See” Vs computer “See”.
 * Deeper inderstand for the high level feature detection.
@@ -14,7 +14,7 @@
 * How to create Data Pipeline using TensorFlow.
 * How to solve the Overfitting for the CNN using Data Augmentation.
 
-## link to the workshop
+## Workshop Links
 
 [Computer Vsiion Using Deep Learning - Workshop Code](https://colab.research.google.com/github/TheAIDojo/Workshops/blob/main/Computer_Vision_Using_Deep_Learning/Computer_Vision_Using_Deep_Learning.ipynb)
 
